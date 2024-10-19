@@ -2,7 +2,7 @@
 
 It includes the Angular ui as well as JSON-server as mock backend
 
-![alt text](https://raw.githubusercontent.com/StanciuMihai/angular-task-tracker/main/src/assets/TaskTracker_Overview.PNG)
+![alt text](https://raw.githubusercontent.com/StanciuMihai/angular-task-tracker/master/src/assets/TaskTracker_Overview.PNG)
 
 
 ## Usage
